@@ -1,0 +1,17 @@
+.containerList {
+  background-color: rgb(219, 211, 211);
+}
+.deskription {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.06em;
+}
+.listItem {
+  margin-left: 15px;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
